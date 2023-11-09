@@ -1,7 +1,7 @@
 # Neptune-Widget-VB6
 The Steampunk Neptune Desktop Widget, written in VB6 for Windows and ReactOS. Created for XP, Vista, Win7, 8, 10/11+, ReactOS as well as Linux or the Apple Mac's OS/X with Wine. This Neptune Desktop Widget is an attractive and steamy VB6 widget for your desktop. This VB6 widget provides a simple moveable marble globe complete with rings
 
-![mars](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/44e30cb2-2932-4148-a47f-cd8b96665b8a)
+![neptune](https://github.com/yereverluvinunclebert/Neptune-VB6-Widget/assets/2788342/4e9c26f0-8c53-45e4-ac8d-2ef1315d188f)
 
 The others are the Uranus, Jupiter, Saturn and of course, 'God of War', the planet Neptune. 
 Double-clicking on the planet will cause a personalised Windows application 
@@ -37,8 +37,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  This version was developed on Windows 7 using 32 bit VisualBasic 6 as a FOSS 
  project creating a WoW64 widget for the desktop.
 
-![mars-help-750](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/629d7deb-2ac2-460b-8259-d7f06a3fa84e)
-
+![help-750](https://github.com/yereverluvinunclebert/Neptune-VB6-Widget/assets/2788342/4a02ae61-feb4-4964-ba27-4e22fab1feef)
 
  It is open source to allow easy configuration, bug-fixing, enhancement and 
  community contribution towards free-and-useful VB6 utilities that can be created
@@ -93,7 +92,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
 	Windows 10 Home 64bit on AMD    
 	Windows 11 64bit on Intel  
 
-![prefs-about](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/e90617d6-b9fd-45b8-bf1c-65d6375d87f8)
+![about](https://github.com/yereverluvinunclebert/Neptune-VB6-Widget/assets/2788342/75d807fe-fec2-46b2-be5f-493a619d22f8)
 
  CREDITS:
  
