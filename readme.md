@@ -46,7 +46,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  is new VB6 widgets with more functionality and then hopefully, conversion of 
  each to RADBasic/TwinBasic for future-proofing and 64bit-ness. 
 
-![theWholeShebang](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/5f6190e1-1091-4b7a-8a14-5ed05d6d32d1)
+![theWholeShebang](https://github.com/yereverluvinunclebert/Neptune-VB6-Widget/assets/2788342/cb874522-5592-4c43-8458-f831ebbb70da)
 
  This utility is one of a set of steampunk and dieselpunk widgets. That you can 
  find here on Deviantart: https://www.deviantart.com/yereverluvinuncleber/gallery
