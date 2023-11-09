@@ -211,7 +211,8 @@ If you are just a casual user of desktop programs then simply download the SETUP
  With regard to the commercial use of incorporated images, permission and a 
  licence would need to be obtained from the original owner and creator, ie. me.
 
-![mars-on-desktop](https://github.com/yereverluvinunclebert/Mars-VB6-Widget/assets/2788342/6b73623c-4a47-4672-8809-ca0c532e0f66)
+![desktop](https://github.com/yereverluvinunclebert/Neptune-VB6-Widget/assets/2788342/c0bb6530-31bb-4730-aec9-8dad4de76ee4)
+
 
 
  
